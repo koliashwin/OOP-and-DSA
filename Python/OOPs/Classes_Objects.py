@@ -12,12 +12,12 @@ class Anime:
 obj1 = Anime()
 obj1.name = "Naruto"
 obj1.MC = "dattebayo"
-obj1.rating = 4.9
+obj1.rating = 4.7
 
 obj2 = Anime()
 obj2.name = "One Piece"
 obj2.MC = "mugiwara"
-obj2.rating = 4.8
+obj2.rating = 4.9
 
 # access attributes
 print(f"{obj1.name} is famous for {obj1.MC} and has ratting of {obj1.rating}")
